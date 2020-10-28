@@ -1,0 +1,6 @@
+There are a lot of cases where you may need to remove punctuation from a string. You may want to remove any punctuation from a string number that a user inserts into your program so that you can convert it into an integer. You may want to remove punctuation from a username.
+
+Python has you covered. There’s a number of different ways you can remove punctuation from a string. In this guide, we’re going to talk about how to remove punctuation from a string asdfoisdf4
+6
+654654
+hi
