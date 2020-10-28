@@ -10,3 +10,7 @@ Milestone Project 2
 - Points.py: tracks points and checks to see if someone has won the game
 - Deck.py: the deck of cards
 - Money.py: keeps track of money and bets
+
+Final Project
+- Includes multiple programs for a variety of topics such as:
+Happy Numbers Generator, Coin Flip Simulater, Sieve of Eratosthenes Generator, String Vowel Counter, Palindrom Checker, File Word Counter
